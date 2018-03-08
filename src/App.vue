@@ -6,6 +6,7 @@
 </template>
 
 <script>
+import { data } from "./data";
 export default {
   name: 'App',
 };

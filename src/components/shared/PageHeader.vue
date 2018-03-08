@@ -5,7 +5,6 @@
 </template>
 
 <script>
-import { PageHeader } from "./shared/PageHeader";
   export default {
 
   }
